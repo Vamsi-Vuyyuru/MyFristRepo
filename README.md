@@ -10,12 +10,11 @@
 -Enegry
 
 
-| Finance Project  | [![](Finance)](https://raw.githubusercontent.com/Vamsi-Vuyyuru/MyFristRepo/master/images/MyPhoto.png)  |
+| Finance Project  | [![(Finance)](https://raw.githubusercontent.com/Vamsi-Vuyyuru/MyFristRepo/master/images/MyPhoto.png)]  |
 | :------------: | :------------: |
 |   |   |
-|  [![](Accounts)](https://raw.githubusercontent.com/Vamsi-Vuyyuru/MyFristRepo/master/images/MyPhoto.png) |  Accounts Project |
-| Banking Project | [![](Banking)](https://raw.githubusercontent.com/Vamsi-Vuyyuru/MyFristRepo/master/images/MyPhoto.png)  |
-|  [![](Energy)](https://raw.githubusercontent.com/Vamsi-Vuyyuru/MyFristRepo/master/images/MyPhoto.png) |  Energy Project|
-
+|  [![(Accounts)](https://raw.githubusercontent.com/Vamsi-Vuyyuru/MyFristRepo/master/images/MyPhoto.png)] |  Accounts Project |
+| Banking Project | [![(Banking)](https://raw.githubusercontent.com/Vamsi-Vuyyuru/MyFristRepo/master/images/MyPhoto.png)]  |
+|  [![(Energy)](https://raw.githubusercontent.com/Vamsi-Vuyyuru/MyFristRepo/master/images/MyPhoto.png)] |  Energy Project|
 
 
