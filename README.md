@@ -11,6 +11,6 @@ My first repo in GitHub
 ___
 
 
-'''
+```
 print('hello world')
-'''
+```
